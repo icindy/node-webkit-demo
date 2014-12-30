@@ -1,0 +1,30 @@
+	{
+
+  "main": "http://cindyfn.com",
+
+  "name": "cindy-blog",
+
+  "description": "会写ios的前端",
+
+  "version": "0.1.0",
+
+  "keywords": [ "web","IOS","nodejs","javascript","js","object-c","前端开发","ios开发" ],
+
+  //定义windows表现
+  "window": {
+
+    "title": "cindy的博客",
+
+    "icon": "logo.png",
+
+    "toolbar": true,
+
+    "frame": false,
+
+    "width": 320,
+
+    "height": 500
+
+  }
+
+}
